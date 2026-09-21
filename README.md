@@ -1,2 +1,40 @@
-# personal-website
-PDM / PapadimitriouDev — personal website of Panagiotis Papadimitriou. Computer Science, technical support and a future in data analytics.
+# PDM / PapadimitriouDev
+
+The bilingual personal website of Panagiotis Papadimitriou: Computer Science graduate, technical support professional and MSc Data Analytics student.
+
+Dark navy and black, yellow accents, restrained red details and an original angular PDM monogram. The hero features a dimensional emblem, orbital lines and subtle motion. The copy focuses on current experience, education and the intended move into data analytics.
+
+Built with AI assistance in HTML, CSS and JavaScript. No framework, package installation, build step, tracking, external fonts or third-party scripts.
+
+## Pages and assets
+
+- `index.html`: English.
+- `el/index.html`: Greek.
+- `assets/styles.css`: layout, theme, responsive rules and CSS 3D scene.
+- `assets/site.js`: navigation, email copying, optional motion and emblem interaction.
+- `assets/mark.svg`: original PDM vector monogram.
+- `assets/favicon.svg`, `assets/favicon-32.png`, `assets/apple-touch-icon.png`: icons.
+- `assets/social-card.png`: image for shared links.
+- `404.html`, `robots.txt`, `sitemap.xml`, `netlify.toml`: hosting and discovery.
+
+## Content
+
+Learning priorities are future goals rather than claims of proficiency. Add practical projects as they are completed. Keep both languages consistent when employment, education or experience changes. The public email, LinkedIn and GitHub links come from the previous public website. Add a verified CV when one is ready.
+
+## Preview
+
+Serve this folder with any static web server. Opening `index.html` directly also displays the site, but a local server more accurately represents hosting. The email-copy button appears only when the browser supports clipboard access in a secure context; the email link works independently.
+
+The content remains visible without JavaScript. Navigation and the email-copy button are progressive enhancements. Motion respects the operating system preference. A footer control can stop the optional animation and remembers the choice in local storage. Animation pauses when the hero is offscreen or the tab is hidden.
+
+## Netlify
+
+The intended public address is https://papadimitrioudev.netlify.app/.
+
+1. Place these files at the repository root.
+2. Connect the existing Netlify site to that repository to preserve the address.
+3. Leave the build command empty. The publish directory is `.` as configured in `netlify.toml`.
+4. Verify English, Greek, mobile navigation, contact links and a missing route after deployment.
+5. Retire the previous repository only after the replacement deployment has been verified and backups retained.
+
+If the public domain changes, update canonical URLs, alternate-language links, Open Graph URLs, `robots.txt` and `sitemap.xml` together.
