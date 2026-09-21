@@ -27,14 +27,17 @@ Serve this folder with any static web server. Opening `index.html` directly also
 
 The content remains visible without JavaScript. Navigation and the email-copy button are progressive enhancements. Motion respects the operating system preference. A footer control can stop the optional animation and remembers the choice in local storage. Animation pauses when the hero is offscreen or the tab is hidden.
 
-## Netlify
+## Deployment
 
-The intended public address is https://papadimitrioudev.netlify.app/.
+Live site: https://papadimitrioudev.netlify.app/
 
-1. Place these files at the repository root.
-2. Connect the existing Netlify site to that repository to preserve the address.
-3. Leave the build command empty. The publish directory is `.` as configured in `netlify.toml`.
-4. Verify English, Greek, mobile navigation, contact links and a missing route after deployment.
-5. Retire the previous repository only after the replacement deployment has been verified and backups retained.
+This repository deploys automatically from the main branch to a new Netlify project created on 22 September 2026. The original public address was transferred to this project.
 
-If the public domain changes, update canonical URLs, alternate-language links, Open Graph URLs, `robots.txt` and `sitemap.xml` together.
+- Netlify project ID: fe24238e-0d1f-4b6a-88ea-6052c57090a1
+- Publish directory: .
+- Build command: none
+- Configuration: netlify.toml
+
+After changing the site, check the English and Greek pages, mobile navigation, contact links and the 404 page. The two language versions should contain the same facts.
+
+If the public domain changes, update canonical URLs, alternate-language links, Open Graph URLs, robots.txt and sitemap.xml together.
