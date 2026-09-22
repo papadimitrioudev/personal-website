@@ -324,3 +324,9 @@ html.motion-off .scene-hint { visibility: hidden; }
 .core-emblem { inset: 51px auto auto 65px; width: 136px; height: 136px; }
 .contact-monogram { width: 142px; }
 @media (max-width: 600px) { .brand-mark, .footer-top .brand-mark { width: 36px; } }
+
+.cv-links { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 18px; margin-top: 20px; font-size: 12px; line-height: 1.6; }
+.cv-links > span { color: var(--muted); }
+.cv-links a { color: var(--ink); text-decoration: underline; text-underline-offset: 4px; padding-block: 6px; }
+.cv-links a:hover { color: var(--yellow); }
+@media (max-width: 480px) { .cv-links > span { flex-basis: 100%; } }

@@ -19,7 +19,7 @@ Built with AI assistance in HTML, CSS and JavaScript. No framework, package inst
 
 ## Content
 
-Learning priorities are future goals rather than claims of proficiency. Add practical projects as they are completed. Keep both languages consistent when employment, education or experience changes. The public email, LinkedIn and GitHub links come from the previous public website. Add a verified CV when one is ready.
+Learning priorities are future goals rather than claims of proficiency. Add practical projects as they are completed. Keep both languages consistent when employment, education or experience changes. The public email, LinkedIn and GitHub links come from the previous public website. The owner-approved CV is available to view and download from the introduction and contact sections.
 
 ## Preview
 
@@ -47,3 +47,7 @@ If the public domain changes, update canonical URLs, alternate-language links, O
 The geometric P monogram is the PapadimitriouDev identity. SVG, PNG and multi-size ICO icons share the same artwork. Social avatars and transparent vector/PNG exports are provided separately in the PapadimitriouDev brand kit.
 
 Brand naming: PapadimitriouDev is the public name; the geometric P is its logo. Internal CSS classes and existing asset filenames retain their stable identifiers.
+
+## CV
+
+`cv/Panagiotis_Papadimitriou_CV.pdf` is the public English CV. Both languages link to the same PDF. The view link opens a new tab; the same-origin download link supplies a filename. Replace this file when updating the CV, and keep the website facts consistent.
