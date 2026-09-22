@@ -51,3 +51,6 @@ Brand naming: PapadimitriouDev is the public name; the geometric P is its logo. 
 ## CV
 
 `cv/Panagiotis_Papadimitriou_CV.pdf` is the public English CV. Both languages link to the same PDF. The view link opens a new tab; the same-origin download link supplies a filename. Replace this file when updating the CV, and keep the website facts consistent.
+
+## Updating styles and scripts
+After editing assets/styles.css or assets/site.js, run node scripts/prepare-assets.cjs before publishing. This writes content-versioned assets and updates all HTML references so returning visitors receive the matching layout and behavior. Asset responses also revalidate to avoid stale branding and document previews.
