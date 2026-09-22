@@ -41,3 +41,7 @@ This repository deploys automatically from the main branch to a new Netlify proj
 After changing the site, check the English and Greek pages, mobile navigation, contact links and the 404 page. The two language versions should contain the same facts.
 
 If the public domain changes, update canonical URLs, alternate-language links, Open Graph URLs, robots.txt and sitemap.xml together.
+
+## Brand assets
+
+The geometric P monogram is the PapadimitriouDev identity. SVG, PNG and multi-size ICO icons share the same artwork. Social avatars and transparent vector/PNG exports are provided separately in the PDM brand kit.

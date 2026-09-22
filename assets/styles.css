@@ -317,3 +317,10 @@ html.motion-off .scene-hint { visibility: hidden; }
   .scene-tilt { transform: rotateX(12deg) rotateY(-25deg) rotateZ(-9deg); }
   .scene-hint { visibility: hidden; }
 }
+
+/* Compact P / diagonal monogram, shared with the social avatar. */
+.brand-mark, .footer-top .brand-mark { width: 42px; }
+.brand-mark .pdm-logo { display: block; aspect-ratio: 1; }
+.core-emblem { inset: 51px auto auto 65px; width: 136px; height: 136px; }
+.contact-monogram { width: 142px; }
+@media (max-width: 600px) { .brand-mark, .footer-top .brand-mark { width: 36px; } }
