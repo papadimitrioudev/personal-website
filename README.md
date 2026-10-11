@@ -2,7 +2,7 @@
 
 The bilingual personal website of Panagiotis Papadimitriou: Computer Science graduate, technical support professional and MSc Data Analytics student.
 
-Dark navy and black, yellow accents, restrained red details and an original geometric P monogram. The hero features a dimensional emblem, orbital lines and subtle motion. The copy focuses on current experience, education and the intended move into data analytics.
+Dark navy and black, yellow accents, restrained red details and an original geometric P monogram. The hero features a dimensional emblem, orbital lines and subtle motion. The copy focuses on current experience, education, gaining experience in different technology roles while studying, and the longer-term move into data analytics.
 
 Built with AI assistance in HTML, CSS and JavaScript. No framework, package installation, build step, tracking, external fonts or third-party scripts.
 
@@ -14,7 +14,7 @@ Built with AI assistance in HTML, CSS and JavaScript. No framework, package inst
 - `assets/site.js`: navigation, email copying, optional motion and emblem interaction.
 - `assets/mark.svg`: geometric P vector monogram.
 - `assets/favicon-pdm.svg`, `assets/favicon-pdm-32.png`, `assets/apple-touch-icon-pdm.png`, `favicon.ico`: icons.
-- `assets/social-card-final.png`: image for shared links.
+- `assets/social-card-v2.png`: image for shared links (`social-card-final.png` is the previous version).
 - `404.html`, `robots.txt`, `sitemap.xml`, `netlify.toml`: hosting and discovery.
 
 ## Content
