@@ -112,7 +112,7 @@ h1 em { display: inline-block; }
 .rotate-button svg { width: 22px; height: 22px; }
 .rotate-button:hover { background: var(--panel-light); border-color: var(--yellow); }
 .credentials { background: #101725bf; border-block: 1px solid var(--line); }
-.credentials-inner { display: grid; grid-template-columns: repeat(3, 1fr); }
+.credentials-inner { display: grid; grid-template-columns: repeat(4, 1fr); }
 .credentials-inner > span { display: flex; align-items: center; gap: 16px; padding: 24px 18px; border-right: 1px solid var(--line); font-size: 12px; line-height: 1.55; }
 .credentials-inner > span:first-child { padding-left: 0; }
 .credentials-inner > span:last-child { border-right: 0; }

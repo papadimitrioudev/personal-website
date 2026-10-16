@@ -1,6 +1,6 @@
 # PapadimitriouDev
 
-The bilingual personal website of Panagiotis Papadimitriou: Computer Science graduate, technical support professional and MSc Data Analytics student.
+The bilingual personal website of Panagiotis Papadimitriou: Computer Science graduate, technician at Germanos and MSc Data Analytics student.
 
 Dark navy and black, yellow accents, restrained red details and an original geometric P monogram. The hero features a dimensional emblem, orbital lines and subtle motion. The copy focuses on work experience, education and the longer-term move into data analytics.
 
