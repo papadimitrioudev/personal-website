@@ -2,7 +2,7 @@
 
 The bilingual personal website of Panagiotis Papadimitriou: Computer Science graduate, technician at Germanos and MSc Data Analytics student.
 
-Dark navy and black, yellow accents, restrained red details and an original geometric P monogram. The hero features a dimensional emblem, orbital lines and subtle motion. The copy focuses on work experience, education and the longer-term move into data analytics.
+Dark navy and black, yellow accents, restrained red details and an original geometric P monogram. The hero features a dimensional emblem, orbital lines and subtle motion. The copy focuses on work experience, education and the tools I am learning.
 
 Built with AI assistance in HTML, CSS and JavaScript. No framework, package installation, build step, tracking, external fonts or third-party scripts.
 
@@ -19,7 +19,7 @@ Built with AI assistance in HTML, CSS and JavaScript. No framework, package inst
 
 ## Content
 
-Learning priorities are future goals rather than claims of proficiency. Add practical projects as they are completed. Keep both languages consistent when employment, education or experience changes. The public email, LinkedIn and GitHub links come from the previous public website. The owner-approved CV is available to view and download from the introduction and contact sections.
+The tools in the learning section are being learned, not claims of proficiency. Add practical projects as they are completed. Keep both languages consistent when employment, education or experience changes. The public email, LinkedIn and GitHub links come from the previous public website. The owner-approved CV is available to view and download from the introduction and contact sections.
 
 ## Preview
 
