@@ -2,19 +2,33 @@
 
 The bilingual personal website of Panagiotis Papadimitriou: Computer Science graduate, technician at Germanos and MSc Data Analytics student.
 
-Dark navy and black, yellow accents, restrained red details and an original geometric P monogram. The hero features a dimensional emblem, orbital lines and subtle motion. The copy focuses on work experience, education and the tools I am learning.
+Dark navy, a yellow signal accent and an original geometric P monogram. The hero features a dimensional emblem that sends out signal rings, with a light travelling around its frame. Type is set in Commissioner, a variable typeface by Greek designer Kostas Bartsokas, used for both Greek and English. The copy focuses on work experience, education and the tools I am learning.
 
-Built with AI assistance in HTML, CSS and JavaScript. No framework, package installation, build step, tracking, external fonts or third-party scripts.
+Built with AI assistance in HTML, CSS and JavaScript. No framework, package installation, build step, tracking, third-party fonts or third-party scripts. The font files are hosted with the site.
+
+### Effects adapted from Magic UI
+
+Magic UI (magicui.design, MIT licence) is a React component library. Its effects are rebuilt here in plain CSS and JavaScript, so the site keeps working without a build step and within the strict Content Security Policy:
+
+- Blur Fade: the introduction appears once on page load.
+- Ripple: rings behind the emblem.
+- Border Beam: a light travelling around the emblem frame.
+- Shiny Button: a light sweep on the main button when hovered or focused.
+- Magic Card: the learning cards' border and spotlight follow the pointer.
+- Animated Beam and pulsating ripple: once, a light runs up the experience timeline and the current role pulses.
+- Scroll Progress: a thin line under the header shows the reading position.
+- Dot Pattern: a faint dot grid in the contact section.
 
 ## Pages and assets
 
 - `index.html`: English.
 - `el/index.html`: Greek.
-- `assets/styles.css`: layout, theme, responsive rules and CSS 3D scene.
-- `assets/site.js`: navigation, email copying, optional motion and emblem interaction.
+- `assets/styles.css`: fonts, layout, theme, responsive rules, CSS 3D scene and effects.
+- `assets/site.js`: navigation, scroll progress, email copying, optional motion, emblem interaction, card spotlight and timeline beam.
+- `assets/fonts/`: Commissioner (Latin and Greek subsets) and its licence, `OFL.txt`.
 - `assets/mark.svg`: geometric P vector monogram.
 - `assets/favicon-pdm.svg`, `assets/favicon-pdm-32.png`, `assets/apple-touch-icon-pdm.png`, `favicon.ico`: icons.
-- `assets/social-card-v2.png`: image for shared links (`social-card-final.png` is the previous version).
+- `assets/social-card-v3.png`: image for shared links (`social-card-v2.png` and `social-card-final.png` are previous versions).
 - `404.html`, `robots.txt`, `sitemap.xml`, `netlify.toml`: hosting and discovery.
 
 ## Content
@@ -25,7 +39,7 @@ The tools in the learning section are being learned, not claims of proficiency. 
 
 Serve this folder with any static web server. Opening `index.html` directly also displays the site, but a local server more accurately represents hosting. The email-copy button appears only when the browser supports clipboard access in a secure context; the email link works independently.
 
-The content remains visible without JavaScript. Navigation and the email-copy button are progressive enhancements. Motion respects the operating system preference. A footer control can stop the optional animation and remembers the choice in local storage. Animation pauses when the hero is offscreen or the tab is hidden.
+The content remains visible without JavaScript. Navigation, the email-copy button and the effects are progressive enhancements. Motion respects the operating system preference. A footer control can stop the optional animation and remembers the choice in local storage. Hero animation pauses when the hero is offscreen or the tab is hidden.
 
 ## Deployment
 
