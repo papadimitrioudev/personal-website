@@ -1,6 +1,6 @@
 # PapadimitriouDev
 
-The bilingual personal website of Panagiotis Papadimitriou: Computer Science graduate, technician at Germanos and MSc Data Analytics student.
+The bilingual personal website of Panagiotis Papadimitriou, a Computer Science graduate and MSc Data Analytics student. His IT Sales Advisor role at Public Syntagma starts on 1 December 2026.
 
 Dark navy, a yellow signal accent and an original geometric P monogram. The hero features a dimensional emblem that sends out signal rings, with a light travelling around its frame. Type is set in Commissioner, a variable typeface by Greek designer Kostas Bartsokas, used for both Greek and English. The copy focuses on work experience, education and the tools I am learning.
 
@@ -15,7 +15,7 @@ Magic UI (magicui.design, MIT licence) is a React component library. Its effects
 - Border Beam: a light travelling around the emblem frame.
 - Shiny Button: a light sweep on the main button when hovered or focused.
 - Magic Card: the learning cards' border and spotlight follow the pointer.
-- Animated Beam and pulsating ripple: once, a light runs up the experience timeline and the current role pulses.
+- Animated Beam and pulsating ripple: once, a light runs up the experience timeline and the latest role pulses.
 - Scroll Progress: a thin line under the header shows the reading position.
 - Dot Pattern: a faint dot grid in the contact section.
 
