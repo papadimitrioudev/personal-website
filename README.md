@@ -1,6 +1,6 @@
 # PapadimitriouDev
 
-The bilingual personal website of Panagiotis Papadimitriou, a Computer Science graduate and MSc Data Analytics student. His IT Sales Advisor role at Public Syntagma starts on 1 December 2026.
+The bilingual personal website of Panagiotis Papadimitriou, a Computer Science graduate, MSc Data Analytics student and part-time IT Sales Advisor at Public Syntagma.
 
 Dark navy, a yellow signal accent and an original geometric P monogram. The hero features a dimensional emblem that sends out signal rings, with a light travelling around its frame. Type is set in Commissioner, a variable typeface by Greek designer Kostas Bartsokas, used for both Greek and English. The copy focuses on work experience, education and the tools I am learning.
 
